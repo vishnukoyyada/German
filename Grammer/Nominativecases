@@ -1,0 +1,23 @@
+Nominative = normal
+Accusative  = subject 
+Dative   = indirect object
+Genitive = relative
+
+Definite Article: The(das)
+
+Case	    Question   	Masculine (the) 	Feminine (the) 	Neuter (the)	Plural (the)
+Nominative	Who?What?	      der	          die	         das	            die
+Accusative	Whom? What?	      den	          die	         das	            die
+Dative	     To/For whom?	  dem	          der	         dem	            den
+Genitive	Whose?	          des (+es)	      der	         des (+es)	        der
+
+
+Inefinite Article: A/An
+
+Case	    Question   	Masculine (the) 	Feminine (the) 	Neuter (the)	Plural (the)
+Nominative	Who?What?	      ein	          eine	         ein	            
+Accusative	Whom? What?	      einen	          eine	         ein	            
+Dative	     To/For whom?	  einem	          einer	         einem	            
+Genitive	Whose?	          eines (+es)	  einer	         eines (+es)	     
+
+
